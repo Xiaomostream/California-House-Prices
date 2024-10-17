@@ -2,6 +2,8 @@
 Only For Studying DL &amp; Kaggle
 https://www.kaggle.com/competitions/california-house-prices
 
+视频讲解 【Kaggle竞赛入门讲解-加州房价预测-哔哩哔哩】 https://b23.tv/lAOQlOv
+
 ## 任务
 ![image](https://github.com/user-attachments/assets/16a1cb13-2a78-42a9-aad7-38960d1b986a)
 
